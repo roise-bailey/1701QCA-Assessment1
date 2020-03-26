@@ -12,9 +12,9 @@
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was the micro:bit itself. As the first project I completed on the micro:bit, every element of the process was new to me- including the coding and making connections on the breadboard. I ultimately learned the basics on how to work the micro:bit and were to access resources to help with coding or fabrication.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as signs that use LED's. The text that is displayed can be easily changed and could be useful as road signs or notice boards.
 
 ### Using a Light Sensor & Analog Inputs ###
 
@@ -40,9 +40,9 @@ This experiment could be the basis of a real world application such as (insert s
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something that was new to me was the potentiometer and the process of connecting it to an LED. Something that I learned was that that the LED must have the flat side facing a particular way in order to work, like how the resistor must face a certain way. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as house lights and their on and off switches and ability to dim.
 
 ### Using a Transistor to Drive a Motor ###
 
@@ -54,9 +54,9 @@ This experiment could be the basis of a real world application such as (insert s
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something I learned was how a transistor works as a new micro:bit element.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as a small, hand-held fan or motorised device that spins. Many elecrical devices do use a motor in some way, whether this is to spin something or as a power source.
 
 ### Setting the Tone with a Piezo Buzzer ###
 
