@@ -118,14 +118,19 @@ I mainly used the micro:bit website and the original guitar fabrication as the m
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
 
 The final shape of the project was inspired by the 1977 film, CLose Encounters of the Third Kind.
+
 https://www.youtube.com/watch?v=S4PYI6TzqYk (Film Clip Link)
 
 Don Norman's *The Design of Everyday Things* was useful in learning how the user needs to be considered when designing a project, and ensuring that it usable and simple to understand.
+
 http://pages.ucsd.edu/~mboyle//COGS1/readings/Norman-COGS1-The%20Psychopathology-of-Everyday-Things.pdf (Chapter Link)
 
 Both the direct project description and the related projects helped inform my thinking on this project. The direct project description was helpful with understanding the technology and how it was intended to function. The related projects were used to understand and discover new ways to use the same technology.
+
 https://makecode.microbit.org/projects/guitar (Original micro:bit Project)
+
 https://www.kitronik.co.uk/blog/bbc-microbit-as-an-instrument-tuner/ (Related Project)
+
 https://www.elecfreaks.com/store/blog/post/make-a-music-machine-with-elecfreaks-microbit-tinker-kit.html (Related Project)
 
 
