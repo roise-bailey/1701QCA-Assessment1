@@ -68,6 +68,7 @@ This project is related to mine because of the similar concept of using a moveme
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
+
 ![Image](missingimage.png)
 
 *Include screenshots of the code you have used.*
