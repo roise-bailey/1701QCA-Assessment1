@@ -92,11 +92,20 @@ The connection I believe is between the reading and my project is the human-cent
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
+Before reading the source, I believed that interactions had to be large, and a focus element of a project. 
+
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+
+After this reading I came to the understanding that interactions can be small and not a focus element, though they are still important and should be considered to create a superior user experience. Users can be led to interact with your project with their intuition, like Dan's example of the toaster.
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
+I would be interested to learn of ways to measure the level of the interaction and see the changes it has the user experience in order to understand the most effective ways to create interactions.
+
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+
+This reading helped me understand the methods of interation I would like to include in my project, and to play on users natural instinct to pick it up and move it around. I also have chosen to keep the design of the project as simple as possible to avoid over complicating the project.
+
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
