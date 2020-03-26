@@ -2,13 +2,7 @@
 
 *Markdown reference: https://guides.github.com/features/mastering-markdown/*
 
-## Instructions ##
-
-*For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
-
-### Experiment name ###
-
-(Replace this with the experiment name)
+### Say "Hello" to the BBC micro:bit ###
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
@@ -23,9 +17,7 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
-
-(Replace this with the experiment name)
+### Using a Light Sensor & Analog Inputs ###
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -40,9 +32,7 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
-
-(Replace this with the experiment name)
+### Dimming an LED using a Potentiometer ###
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -57,9 +47,7 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
-
-(Replace this with the experiment name)
+### Using a Transistor to Drive a Motor ###
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -74,9 +62,7 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
-
-(Replace this with the experiment name)
+### Setting the Tone with a Piezo Buzzer ###
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
