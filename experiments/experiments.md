@@ -8,7 +8,7 @@
 
 ![Image](pro1.JPG)
 
-(Completed Project)
+(micro:bit experiment 1)
 
 #### Reflection ####
 
@@ -22,7 +22,7 @@ This experiment could be the basis of a real world application such as (insert s
 
 ![Image](pro2.JPG)
 
-(Insert a caption here)
+(micro:bit experiment 2)
 
 #### Reflection ####
 
@@ -36,7 +36,7 @@ This experiment could be the basis of a real world application such as (insert s
 
 ![Image](pro3.JPG)
 
-(Insert a caption here)
+(micro:bit experiment 3)
 
 #### Reflection ####
 
@@ -50,7 +50,7 @@ This experiment could be the basis of a real world application such as (insert s
 
 ![Image](pro4.JPG)
 
-(Insert a caption here)
+(micro:bit experiment 4)
 
 #### Reflection ####
 
@@ -64,11 +64,11 @@ This experiment could be the basis of a real world application such as (insert s
 
 ![Image](pro5.JPG)
 
-(Insert a caption here)
+(micro:bit experiment 6)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something I learned was how to set up a buzzer with the micro:bit. I also learned the importance of ensuring that all wires are connected in the correct places as the first time I built the project one of the wires was not in the correct position, resulting in the project not to work at all. Something that was new to me was the piezo buzzer as this was the first project that I actually used it.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of any real world applications that use a buzzer, such as game timers, or basic music making.
 
