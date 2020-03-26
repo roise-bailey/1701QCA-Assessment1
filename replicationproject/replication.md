@@ -97,10 +97,12 @@ This project is related to mine because of the similar concept of using a moveme
 ### Reflection ###
 
 *Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+
 The main part of the project that I believe needs improvement is the presentation of the final concept. I feel if I had spent less time on other aspects of the task, and overthinking the fabrication, I would have had more time to test various ways of presenting the project. Another element that could have been improved is the overall understanding of the micro:bit and its functions, with this understanding I could have improved on simple things such as making more stable connections and making the final project run as efficient as possible. I do believe that the overall functionality of the project is successful as it does work how I imagined it would. As well as this, I do feel that the concept for fabriction was successful, though it could have been improved physically.
 
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+
 I mainly used the micro:bit website and the original guitar fabrication as the main sources in building this project, technology wise. When trying to figure out the best way to physically build the project I reflected on several sources that I have seen throughout the previous weeks of the course, such as relevant projects and the readings. 
 
 
@@ -108,4 +110,5 @@ I mainly used the micro:bit website and the original guitar fabrication as the m
 
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
+
 An interesting extention of this project could be creating more range in pitch, or even adding the ability to play different notes. The project could also be mad more enticing by the addition of multiple devices so that a group could all use them at the same time and create music. I can also see this device being created on a larger scale where more significant movements can be made by users, this could be seen in the setting of a gallery or a public display for anyone to use. Although I do believe that the only context this project would be used is for entertainment.
