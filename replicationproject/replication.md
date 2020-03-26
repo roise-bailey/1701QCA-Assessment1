@@ -19,6 +19,52 @@ https://www.youtube.com/watch?v=y2gqNtakBHo
 
 This project is related to mine because of the similar concept of using a movement to manipulate a sound. With the theremin, a magnet is used to change the pitch of the noise made by the micro:bit, and with my replication project of the guitar, the movement of the micro:bit itself changes the tempo of the noise.
 
+### Related project 2 ###
+micro:bit Air Guitar
+
+https://make.techwillsaveus.com/microbit/activities/air-guitar
+
+![Image](airguitar.JPG)
+
+This project is related to my guitar project due to the similar technology, concept and coding. Though the fabrication of this project and the original micro:bit guitar my project is based on are quite similar. This project also uses the acceleration function of the micro:bit though it alters the volume of the guitar, rather than the tempo. Both projects can be interacted with similarly, with the acceleration manipulating sound in some way.
+
+### Related project 3 ###
+micro:bit Music Maker
+
+https://www.elecfreaks.com/store/blog/post/make-a-music-machine-with-elecfreaks-microbit-tinker-kit.html
+
+![Image](musicmaker.JPG)
+
+This project is related to mine because of its similar technology, concept and coding. The music maker uses an extention kit that provides a wider variety of notes. Rather than continuously producing notes like my project, the music maker has a different note set for each button. Though the projects produce noise differently, the end products are similar.
+
+### Related project 4 ###
+micro:bit Instrument Tuner
+
+https://www.kitronik.co.uk/blog/bbc-microbit-as-an-instrument-tuner/
+
+![Image](tuner.JPG)
+
+This project uses similar technology and coding to my project. Using the buttons, the tuner will play various notes to help someone tune an instrument, where as with my project, a note will be continuosly played until turned off. 
+
+### Related project 5 ###
+micro:bit Magnet Theremin
+
+https://www.youtube.com/watch?v=y2gqNtakBHo
+
+![Image](theremin.JPG)
+
+This project is related to mine because of the similar concept of using a movement to manipulate a sound. With the theremin, a magnet is used to change the pitch of the noise made by the micro:bit, and with my replication project of the guitar, the movement of the micro:bit itself changes the tempo of the noise.
+
+### Related project 6 ###
+micro:bit Magnet Theremin
+
+https://www.youtube.com/watch?v=y2gqNtakBHo
+
+![Image](theremin.JPG)
+
+This project is related to mine because of the similar concept of using a movement to manipulate a sound. With the theremin, a magnet is used to change the pitch of the noise made by the micro:bit, and with my replication project of the guitar, the movement of the micro:bit itself changes the tempo of the noise.
+
+
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
@@ -56,11 +102,19 @@ The connection I believe is between the reading and my project is the human-cent
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
+Previously, I had never fully considered how much trial and error goes into developing something, no matter how simple it may be. The amount of change and development that goes into a project before the final prototype is complete was very interesting to see.
+
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+
+As a result of the reading, I learned how much trial and error is involved in the development of a project. The final fabrication of a project may evolve into something completely different to what was originally intended.
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
+I would like to learn more about the process of prototyping a project and how it is tested in the initial stages of development. I would also be interesting in learning more about what factors during a projects development will alter or evolve the design of the project.
+
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+
+This relates to the project I am working on as it shows the necessity to have the project tested my multiple people are recieve feedback on its design and functionality. It also shows how much a project can change from an initial idea, and not to get stuck in one idea.
 
 
 ## Interaction flowchart ##
