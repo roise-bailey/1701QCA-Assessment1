@@ -5,11 +5,10 @@
 ### Say "Hello" to the BBC micro:bit ###
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+![Image](pro1.JPG)
 
-(Insert a caption here)
+(Completed Project)
 
 #### Reflection ####
 
@@ -20,9 +19,8 @@ This experiment could be the basis of a real world application such as (insert s
 ### Using a Light Sensor & Analog Inputs ###
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](pro2.JPG)
 
 (Insert a caption here)
 
@@ -35,9 +33,8 @@ This experiment could be the basis of a real world application such as (insert s
 ### Dimming an LED using a Potentiometer ###
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](pro3.JPG)
 
 (Insert a caption here)
 
@@ -50,9 +47,8 @@ This experiment could be the basis of a real world application such as (insert s
 ### Using a Transistor to Drive a Motor ###
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](pro4.JPG)
 
 (Insert a caption here)
 
@@ -65,9 +61,8 @@ This experiment could be the basis of a real world application such as (insert s
 ### Setting the Tone with a Piezo Buzzer ###
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](pro5.JPG)
 
 (Insert a caption here)
 
