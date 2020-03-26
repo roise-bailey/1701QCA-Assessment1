@@ -76,7 +76,7 @@ This project is related to mine because (insert reasons here).
 
 *Complete the following information.*
 
-### Project title ###
+### The Spaceship: A Musical Journey ###
 
 ### Project description ###
 
