@@ -15,7 +15,7 @@
 
 (https://www.youtube.com/watch?v=y2gqNtakBHo)
 
-![Image](missingimage.png)
+![Image](theremin.JPG)
 
 This project is related to mine because of the similar concept of using a movement to manipulate a sound. With the theremin, a magnet is used to change the pitch of the noise made by the micro:bit, and with my replication project of the guitar, the movement of the micro:bit itself changes the tempo of the noise.
 
