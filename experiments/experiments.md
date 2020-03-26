@@ -26,7 +26,7 @@ This experiment could be the basis of a real world application such as signs tha
 
 #### Reflection ####
 
-In this experiment, I first started to learn about the phototransistor and resistors. As more light shines on the phototransistor this allows more current to flow and then increases the voltage towards 3V. When there is less light, the resistor helps pull the voltage down to 0V.
+In this experiment, I first started to learn about the phototransistor and resistors and how to incorporate them into the code of the micro:bit.
 
 This experiment could be the basis of a real world application such as interactive displays using LED's or a sensor telling if it is light or dark outside.
 
