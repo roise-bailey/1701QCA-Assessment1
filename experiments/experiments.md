@@ -12,7 +12,7 @@
 
 #### Reflection ####
 
-In this experiment, the micro:bit itself was new to me. As the first project I completed on the micro:bit, every element of the process was new to me- including the coding and making connections on the breadboard. I ultimately learned the basics on how to work the micro:bit and were to access resources to help with coding or fabrication.
+In this experiment, the micro:bit itself was new to me. As the first project I completed on the micro:bit, every element of the process was new to me- including the coding and making connections on the breadboard. I ultimately learned the basics on how to work the micro:bit and where to access resources to help with coding or fabrication.
 
 This experiment could be the basis of a real world application such as signs that use LED's. The text that is displayed can be easily changed and could be useful as road signs or notice boards.
 
