@@ -47,22 +47,22 @@ https://www.kitronik.co.uk/blog/bbc-microbit-as-an-instrument-tuner/
 This project uses similar technology and coding to my project. Using the buttons, the tuner will play various notes to help someone tune an instrument, where as with my project, a note will be continuosly played until turned off. 
 
 ### Related project 5 ###
-micro:bit Magnet Theremin
+micro:bit Banana Keyboard
 
-https://www.youtube.com/watch?v=y2gqNtakBHo
+https://makecode.microbit.org/projects/banana-keyboard
 
-![Image](theremin.JPG)
+![Image](banana.JPG)
 
-This project is related to mine because of the similar concept of using a movement to manipulate a sound. With the theremin, a magnet is used to change the pitch of the noise made by the micro:bit, and with my replication project of the guitar, the movement of the micro:bit itself changes the tempo of the noise.
+This project is related to mine because of the similar technology. Instead of a continuous noise like the guitar project, the banana keyboard only produces noise by pressing the connected fruit. The two projects use similar items to complete circuits such as foil to turn it on and off and some sort of buzzer/ speaker.
 
 ### Related project 6 ###
-micro:bit Magnet Theremin
+micro:bit Alarm
 
-https://www.youtube.com/watch?v=y2gqNtakBHo
+https://www.kitronik.co.uk/blog/microbit-alarm-kitronik-university/
 
-![Image](theremin.JPG)
+![Image](alarm.JPG)
 
-This project is related to mine because of the similar concept of using a movement to manipulate a sound. With the theremin, a magnet is used to change the pitch of the noise made by the micro:bit, and with my replication project of the guitar, the movement of the micro:bit itself changes the tempo of the noise.
+This project uses similar technology as mine where the micro:bit is programed to activate a buzzer when movement is detected. Although, with the alarm there is no variation on the pitch or tempo of the noise made. The project does use similar parts of the micro:bit and code to activate the accelerometer.
 
 
 ## Reading reflections ##
