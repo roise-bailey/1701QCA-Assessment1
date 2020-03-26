@@ -28,11 +28,19 @@ This project is related to mine because of the similar concept of using a moveme
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
+Previously, I had never fully considered the importance of the design of a project. I did realise how important the final project was but not all the questions that had to be answered in the process such as whether how to use it is obvious, or what ways different people may react to it.
+
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+
+I learned about the more indepth, or unseen parts of designing process. I started to realise how much design and efficiency impact one another, an object couuld be very efficient and complete a certain task well, but if the user does not understand how it works, the project becomes useless.
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
+Something I would be interested to learn more about is human interaction with design. There are many assumptions when designing an object such as that the user should have an idea of how certain items work. Where do these assumptions end? What technology/ objects are assumed to be known by the user and what is new territory?
+
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+
+The connection I believe is between the reading and my project is the human-centered design. Though the project makes complete sense to me as the designer because I fully understand the technology behind it, it may be more complex to a user who has no background knowledge of the micro:bit. This is something I need to consider when designing the project.
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
@@ -104,10 +112,21 @@ The main part of the project that I believe needs improvement is the presentatio
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
 
-I mainly used the micro:bit website and the original guitar fabrication as the main sources in building this project, technology wise. When trying to figure out the best way to physically build the project I reflected on several sources that I have seen throughout the previous weeks of the course, such as relevant projects and the readings. 
+I mainly used the micro:bit website and the original guitar fabrication as the main sources in building this project, technology wise. When trying to figure out the best way to physically build the project I reflected on several sources that I have seen throughout the previous weeks of the course, such as relevant projects and the readings. Though the original micro:bit code was the most useful as it allowed for the understanding of how the code was supposed to function and a deeper understanding of all the elements that were brought together for the final project.
 
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
+
+The final shape of the project was inspired by the 1977 film, CLose Encounters of the Third Kind.
+https://www.youtube.com/watch?v=S4PYI6TzqYk (Film Clip Link)
+
+Don Norman's *The Design of Everyday Things* was useful in learning how the user needs to be considered when designing a project, and ensuring that it usable and simple to understand.
+http://pages.ucsd.edu/~mboyle//COGS1/readings/Norman-COGS1-The%20Psychopathology-of-Everyday-Things.pdf (Chapter Link)
+
+Both the direct project description and the related projects helped inform my thinking on this project. The direct project description was helpful with understanding the technology and how it was intended to function. The related projects were used to understand and discover new ways to use the same technology.
+https://makecode.microbit.org/projects/guitar (Original micro:bit Project)
+https://www.kitronik.co.uk/blog/bbc-microbit-as-an-instrument-tuner/ (Related Project)
+https://www.elecfreaks.com/store/blog/post/make-a-music-machine-with-elecfreaks-microbit-tinker-kit.html (Related Project)
 
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
