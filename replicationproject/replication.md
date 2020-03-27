@@ -140,31 +140,54 @@ This relates to the project I am working on as it shows the necessity to have th
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
 
-![Image](missingimage.png)
+Initial Product Design
+![Image](0.jpg)
 
-*Include screenshots of the code you have used.*
+
+Testing the accelerome
+![Image](accel.jpg)
+![Image](acceltest.jpg)
+
+
+Testing the light sensor
+![Image](light.jpg)
+![Image](lightleveltest.jpg)
+
+
+Fabrication
+![Image](1.jpg)
+![Image](2.jpg)
+![Image](3.jpg)
+![Image](4.jpg)
+![Image](5.jpg)
+![Image](fab1.jpg)
+![Image](fab2.jpg)
+![Image](6.jpg)
+![Image](7.jpg)
+![Image](fab3.jpg)
+![Image](fab4.jpg)
+![Image](8.jpg)
+
+
+Final Product
+![Image](final.jpg)
+![Image](final code.jpg)
+
 
 ## Project outcome ##
 
-*Complete the following information.*
 
 ### The Spaceship ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+The Spaceship is a compact music making device. Intended for the sole purpose of amusement, the Spaceship is easy to use by people of all ages.
 
 ### Showcase image ###
-
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
+![Image](showcase.jpg)
 
 ### Additional view ###
-
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
+![Image](9.jpg)
 
 ### Reflection ###
 
