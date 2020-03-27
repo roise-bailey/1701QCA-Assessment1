@@ -145,33 +145,33 @@ Initial Product Design
 
 
 Testing the accelerome
-![Image](accel.jpg)
-![Image](acceltest.jpg)
+![Image](accel.JPG)
+![Image](acceltest.JPG)
 
 
 Testing the light sensor
-![Image](light.jpg)
-![Image](lightleveltest.jpg)
+![Image](light.JPG)
+![Image](lightleveltest.JPG)
 
 
 Fabrication
-![Image](1.jpg)
-![Image](2.jpg)
-![Image](3.jpg)
-![Image](4.jpg)
-![Image](5.jpg)
-![Image](fab1.jpg)
-![Image](fab2.jpg)
-![Image](6.jpg)
-![Image](7.jpg)
-![Image](fab3.jpg)
-![Image](fab4.jpg)
-![Image](8.jpg)
+![Image](1.JPG)
+![Image](2.JPG)
+![Image](3.JPG)
+![Image](4.JPG)
+![Image](5.JPG)
+![Image](fab1.JPG)
+![Image](fab2.JPG)
+![Image](6.JPG)
+![Image](7.JPG)
+![Image](fab3.JPG)
+![Image](fab4.JPG)
+![Image](8.JPG)
 
 
 Final Product
-![Image](final.jpg)
-![Image](final code.jpg)
+![Image](final.JPG)
+![Image](final code.JPG)
 
 
 ## Project outcome ##
@@ -184,10 +184,10 @@ Final Product
 The Spaceship is a compact music making device. Intended for the sole purpose of amusement, the Spaceship is easy to use by people of all ages.
 
 ### Showcase image ###
-![Image](showcase.jpg)
+![Image](showcase.JPG)
 
 ### Additional view ###
-![Image](9.jpg)
+![Image](9.JPG)
 
 ### Reflection ###
 
