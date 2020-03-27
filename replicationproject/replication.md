@@ -150,11 +150,10 @@ Fabrication
 ![Image](7.JPG)
 ![Image](fab3.JPG)
 ![Image](fab4.JPG)
-![Image](8.JPG)
 
 
 Final Product
-![Image](final.JPG)
+![Image](8.JPG)
 ![Image](finalcode.JPG)
 
 
