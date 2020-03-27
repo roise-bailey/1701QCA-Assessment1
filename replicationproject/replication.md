@@ -155,7 +155,7 @@ Fabrication
 
 
 Final Product
-![Image](finalproduct.JPG)
+![Image](show.JPG)
 ![Image](finalcode.JPG)
 
 
@@ -172,7 +172,7 @@ The Spaceship is a compact music making device. The Spaceship allows for the use
 https://www.youtube.com/watch?v=_bbYxYV2fro&feature=youtu.be 
 
 ### Showcase image ###
-![Image](finalshowcase.JPG)
+![Image](finalproduct.JPG)
 
 ### Additional view ###
 ![Image](9.JPG)
