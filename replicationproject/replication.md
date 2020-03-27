@@ -153,7 +153,7 @@ Fabrication
 
 
 Final Product
-![Image](showcase.JPG)
+![Image](showcase.JPG)!!!
 ![Image](finalcode.JPG)
 
 
@@ -167,7 +167,7 @@ Final Product
 The Spaceship is a compact music making device. The Spaceship allows for the user to alter noise by movement and light and turn off the device with a simple touch. It is great for those interested in music and technology and are eager to learn more about how sound can be affected by different variables. The Spaceship showcases how movement and light can change sound.
 
 ### Showcase image ###
-![Image](8.JPG)
+![Image](8.JPG)!!!
 
 ### Additional view ###
 ![Image](9.JPG)
