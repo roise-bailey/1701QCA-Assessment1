@@ -164,7 +164,7 @@ Final Product
 
 ### Project description ###
 
-The Spaceship is a compact music making device. Intended for the sole purpose of amusement, the Spaceship is easy to use by people of all ages.
+The Spaceship is a compact music making device. The Spaceship allows for the user to alter noise by movement and light and turn off the device with a simple touch. It is great for those interested in music and technology and are eager to learn more about how sound can be affected by different variables. The Spaceship showcases how movement and light can change sound.
 
 ### Showcase image ###
 ![Image](8.JPG)
