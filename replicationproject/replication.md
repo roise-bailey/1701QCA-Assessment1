@@ -203,7 +203,7 @@ I mainly used the micro:bit website and the original guitar fabrication as the m
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
 
-The final shape of the project was inspired by the 1977 film, CLose Encounters of the Third Kind.
+The final shape of the project was inspired by the 1977 film, Close Encounters of the Third Kind.
 
 https://www.youtube.com/watch?v=S4PYI6TzqYk (Film Clip Link)
 
