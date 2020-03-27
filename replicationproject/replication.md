@@ -141,7 +141,7 @@ This relates to the project I am working on as it shows the necessity to have th
 
 
 Initial Product Design
-![Image](0.jpg)
+![Image](0.JPG)
 
 
 Testing the accelerome
