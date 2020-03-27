@@ -184,7 +184,7 @@ Final Product
 The Spaceship is a compact music making device. Intended for the sole purpose of amusement, the Spaceship is easy to use by people of all ages.
 
 ### Showcase image ###
-![Image](showcase.JPG)
+![Image](showcase1.JPG)
 
 ### Additional view ###
 ![Image](9.JPG)
