@@ -1,6 +1,5 @@
 # Inventor Kit Experiments
 
-*Markdown reference: https://guides.github.com/features/mastering-markdown/*
 
 ### Say "Hello" to the BBC micro:bit ###
 
