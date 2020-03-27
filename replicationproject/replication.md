@@ -171,7 +171,7 @@ Fabrication
 
 Final Product
 ![Image](final.JPG)
-![Image](final code.JPG)
+![Image](finalcode.JPG)
 
 
 ## Project outcome ##
