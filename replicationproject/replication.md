@@ -144,7 +144,7 @@ Initial Product Design
 ![Image](0.JPG)
 
 
-Testing the accelerome
+Testing the accelerometer
 ![Image](accel.JPG)
 ![Image](acceltest.JPG)
 
